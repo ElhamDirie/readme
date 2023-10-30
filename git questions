@@ -1,0 +1,11 @@
+1: repository is a container that holds all the files, code, and related information for a particular project.
+    a:git init.
+    b:git add .
+    c:git commit -m "Your commit message".
+    d:git remote add origin <link>.
+    e:git push origin main.
+2: the -m in a git commit command is used to specify a commit message directly on the command line. 
+3:git commit -m"Your commit message".
+4:git add .
+5:The term "origin" is typically used as the default name for the remote repository from which you cloned your local repository.
+
